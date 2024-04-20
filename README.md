@@ -1,7 +1,7 @@
 <h1 align="center">ALURA NEWSLETTER</h1>
 
 ## Descrição do Projeto
-<p>Este é um projeto pessoal desenvolvido como parte do meu portfólio, chamado Alura Newsletter. O Alura Newsletter é uma página web simples construída com HTML, CSS e a personalizei com o framework Tailwind projetada para demonstrar minhas habilidades de front-end e design web.</p>
+<p>Este é um projeto pessoal desenvolvido como parte do meu portfólio, chamado Alura Newsletter. O Alura Newsletter é uma página web simples construída com HTML, CSS. Personalizada com o framework Tailwind projetada para demonstrar minhas habilidades de front-end e design web.</p>
 
 <image align="center">[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)</image>
 
